@@ -1,0 +1,19 @@
+.body{
+    padding:20px;
+    margin:0;
+}
+
+.not-started, .running {
+    color:#666;
+    font-style:italic;
+}
+
+.passed {
+    color:#5c5;
+    font-style:italic;
+}
+
+.failed {
+    color:#c55;
+    font-style:italic;
+}
