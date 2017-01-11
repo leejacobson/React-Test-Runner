@@ -1,5 +1,5 @@
 # React-Test-Runner
-Created for code challenge
+Simple React test runner created for a 2 hour code challenge
 
 ##To Run
 ```
